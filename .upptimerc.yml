@@ -9,6 +9,7 @@ sites:
   - name: Aither Chat - IRC
     check: "tcp-ping"
     url: irc.aither.cc
+    icon: https://cdn-icons-png.flaticon.com/512/309/309666.png
     port: 6697
 
 status-website:
