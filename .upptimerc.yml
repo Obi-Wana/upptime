@@ -21,7 +21,7 @@ status-website:
   name: Status
   theme: night
   introTitle: "**Aither Status**"
-  introMessage: Service Uptime powered by[Upptime](https://github.com/upptime/upptime)
+  introMessage: Service Uptime
   navbar:
     - title: Status
       href: /
