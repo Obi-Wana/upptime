@@ -28,3 +28,7 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+# Notifications
+NOTIFICATION_DISCORD: true
+NOTIFICATION_DISCORD_WEBHOOK: true
+NOTIFICATION_DISCORD_WEBHOOK_URL: WEBHOOK_URL
