@@ -22,7 +22,7 @@
     "url": "irc.aither.cc",
     "icon": "https://cdn-icons-png.flaticon.com/512/309/309666.png",
     "slug": "aither-chat-irc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 282,
     "timeYear": 304,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-02-10": 190,
       "2023-02-07": 307,
       "2023-01-29": 81
