@@ -4,19 +4,19 @@
     "url": "https://aither.cc",
     "icon": "https://aither.cc/favicon.ico",
     "slug": "aither-web-https",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 633,
-    "timeWeek": 728,
-    "timeMonth": 765,
-    "timeYear": 778,
+    "time": 777,
+    "timeDay": 664,
+    "timeWeek": 724,
+    "timeMonth": 763,
+    "timeYear": 777,
     "dailyMinutesDown": {
-      "2023-06-20": 0
+      "2023-06-20": 10
     }
   },
   {
