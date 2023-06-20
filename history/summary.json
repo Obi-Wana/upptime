@@ -4,9 +4,9 @@
     "url": "https://aither.cc",
     "icon": "https://aither.cc/favicon.ico",
     "slug": "aither-web-https",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 728,
     "timeMonth": 765,
     "timeYear": 778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-20": 0
+    }
   },
   {
     "name": "Aither Chat - IRC",
